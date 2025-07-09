@@ -1,0 +1,5 @@
+CART_HOST: cart.daws84s.xyz
+MYSQL_HOST: mysql.daws84s.xyz
+MYSQL_ROOT_USER: root
+MYSQL_ROOT_PASSWORD: RoboShop@1
+SHIPPING_HOST: shipping.daws84s.xyz  
