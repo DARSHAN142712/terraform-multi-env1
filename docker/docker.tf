@@ -42,3 +42,4 @@ resource "aws_security_group" "allow_all_docker" {
         Name = "allow-all-docker"
     }
 }
+ 
